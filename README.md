@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>ATM Machine</h1>
-    <p>This is a simple ATM machine program implemented in Java. It allows users to perform basic banking operations such as checking the account balance, withdrawing money, depositing money, and generating a new PIN.</p>
+    <p>Hello! My name is Tanu Sharma, I am a 4th-year Undergraduate Student currently studying at the Indian Institute of Technology, Kharagpur. I have developed this ATM Machine Project. This is a simple ATM machine program implemented in Java. It allows users to perform basic banking operations such as checking the account balance, withdrawing money, depositing money, and generating a new PIN.</p>
     <h2>Usage</h2>
     <ol>
         <li>Run the program.</li>
